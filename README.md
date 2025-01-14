@@ -29,5 +29,3 @@ message AboutMe {
 
 ![Nguyen Van Ky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguynvanky)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguynvanky&layout=pie)]
-
