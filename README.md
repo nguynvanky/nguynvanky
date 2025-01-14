@@ -25,3 +25,6 @@ message AboutMe {
   option (status).work = CODING;
 }
 ```
+## 📈 GitHub Stats
+
+![Nguyen Van Ky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguynvanky)
