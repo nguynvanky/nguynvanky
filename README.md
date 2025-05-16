@@ -28,4 +28,4 @@ message AboutMe {
 ## 📈 GitHub Stats
 
 ![Nguyen Van Ky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguynvanky)
-
+![Visit Count](https://profile-counter.glitch.me/nguynvanky/count.svg)
