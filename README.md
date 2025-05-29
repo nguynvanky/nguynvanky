@@ -5,7 +5,7 @@
 [![LinkedIn][3]][4]
 
 [3]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[4]:  https://www.linkedin.com/in/nguynvanky "My LinkedIn Profile"
+[4]:  <a href="https://www.linkedin.com/in/nguynvanky" target="_blank" rel="noopener noreferrer">My LinkedIn Profile</a>
 
 ```proto
 message AboutMe {
